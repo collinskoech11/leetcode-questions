@@ -1,0 +1,5 @@
+What is backtracking?
+  a technique where the goal is to find all solutions to a problem using the Brute Force Approach.
+  What is Brute Force Approach?
+    - it is an approach  that finds all the possible solutions to find a satisfactory solution to  a given problem.
+    - it tries out all possibilities till a satisfactory solution is NOT found
